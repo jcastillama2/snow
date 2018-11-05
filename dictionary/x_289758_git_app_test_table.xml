@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci" label="Test Table" max_length="40" name="x_289758_git_app_test_table" type="collection">
+        <element label="atributo1" max_length="40" name="atributo1" type="glide_date"/>
+    </element>
+</database>
